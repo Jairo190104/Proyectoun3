@@ -1,0 +1,23 @@
+body{
+	background-image: url(Galaxy2.jpg);
+	font-family: Arial;
+}
+
+p{
+	color: red;
+	font-weight: bold;
+}
+
+h2{
+	font-family: cursive;
+	color: purple;
+}
+
+a{
+	color: silver;
+}
+
+input{
+	color: gold;
+	background-color: transparent;
+}
